@@ -1,0 +1,12 @@
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+runtime/
+temp/
+*.lock
+.phpintel/
+.env
+.DS_Store
